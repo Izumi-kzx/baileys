@@ -1,5 +1,5 @@
 {
-  "name": "@owensdev1/baileys",
+  "name": "@Izumi-kzx/baileys",
   "version": "2.0.0",
   "description": "WhatsApp API",
   "keywords": [
@@ -13,9 +13,9 @@
     "jkt48connect",
     "valzyy"
   ],
-  "homepage": "https://github.com/owensdev1/baileys",
+  "homepage": "https://github.com/Izumi-kzx/baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/owensdev1/baileys.git"
+    "url": "git+ssh://git@github.com/Izumi-kzx/baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
